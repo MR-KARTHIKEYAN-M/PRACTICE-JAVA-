@@ -11,7 +11,7 @@ public class AddThreeNumbers {
         System.out.print("Enter the second number: ");
         int num2 = scanner.nextInt();
 
-        System.out.print("Enter the second number: ");
+        System.out.print("Enter the Third number: ");
         int num3 = scanner.nextInt();
 
         int sum = num1 + num2 + num3;
